@@ -59,7 +59,7 @@
     "request": "2.88.2",
     "rfc2047": "2.0.1",
     "s3rver": "3.5.0",
-    "sanitize-html": "1.23.0",
+    "sanitize-html": "2.12.1",
     "select2": "3.5.2-browserify",
     "select2-bootstrap-css": "1.4.6",
     "serve-favicon": "2.5.0",
